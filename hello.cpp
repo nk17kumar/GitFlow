@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
 
     int cnt = 10;
     for(int i=0;i<cnt;i++) {
-        cout << name;
+        cout << name << endl;
     }
     return 0;
 }
