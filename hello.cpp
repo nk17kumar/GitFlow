@@ -3,7 +3,8 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
-    // add the code here
+    String name = "";
+    cout << name << endl;
 
     return 0;
 }
