@@ -7,7 +7,10 @@ int main(int argc, char* argv[])
     cin >> s;
     int l = s.length();
 
-    cout << isPalindrome(s) << endl;
+    if ( isPalindrome(s) )
+        cout << "yesah";
+    else
+        cout << "nopes";
 
     return 0;
 }
